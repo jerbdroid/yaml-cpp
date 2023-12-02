@@ -4,3 +4,6 @@ build/
 *.vcxproj*
 bin/
 bin-int/
+
+# Generated makefile
+Makefile
